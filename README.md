@@ -31,15 +31,15 @@ Using the trackbar control, adjust and find best the color filter info by showin
 
 Original Image             |  HSV Image
 :-------------------------:|:-------------------------:
-![Original Image](https://github.com/innovationAIengineer/color-filter-util/blob/main/assets/original_image.png?raw=true)  |  ![HSV Image](https://github.com/innovationAIengineer/color-filter-util/blob/main/assets/hsv_image.png?raw=true)
+![Original Image](https://github.com/dkojic325/color-filter-util/blob/main/assets/original_image.png?raw=true)  |  ![HSV Image](https://github.com/dkojic325/color-filter-util/blob/main/assets/hsv_image.png?raw=true)
 
 Circle Contour trackbar    |  Circle Contour
 :-------------------------:|:-------------------------:
-![Circle Contour Trackbar](https://github.com/innovationAIengineer/color-filter-util/blob/main/assets/01.trackbar_circle_contour.png?raw=true)  |  ![Circle Contour](https://github.com/innovationAIengineer/color-filter-util/blob/main/assets/01.circle_contour.png?raw=true)
+![Circle Contour Trackbar](https://github.com/dkojic325/color-filter-util/blob/main/assets/01.trackbar_circle_contour.png?raw=true)  |  ![Circle Contour](https://github.com/dkojic325/color-filter-util/blob/main/assets/01.circle_contour.png?raw=true)
 
 Circle trackbar            |  Circle
 :-------------------------:|:-------------------------:
-![Circle Trackbar](https://github.com/innovationAIengineer/color-filter-util/blob/main/assets/02.trackbar_circle.png?raw=true)  |  ![Circle](https://github.com/innovationAIengineer/color-filter-util/blob/main/assets/02.circle.png?raw=true)
+![Circle Trackbar](https://github.com/dkojic325/color-filter-util/blob/main/assets/02.trackbar_circle.png?raw=true)  |  ![Circle](https://github.com/dkojic325/color-filter-util/blob/main/assets/02.circle.png?raw=true)
 
 ## Contributing
 This script would be useful to find the best color filter info. I often use this simple script on Vision projects. Pretty simple but useful script. 😃
