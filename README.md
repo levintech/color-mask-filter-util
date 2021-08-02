@@ -1,4 +1,4 @@
-# Color Filter Util
+# Color Mask Filter Util
 
 This simple script is to use find the color filter info to extract specific color & regions from the image. It generate the mask depends on filtered color
 
